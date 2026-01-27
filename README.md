@@ -142,7 +142,7 @@
     <ul>
       <li><a href="index.html">Home</a></li>
       <li><a href="https://vzmama0-boop.github.io/_/">Gallery</a></li>
-      <li><a href="about.html">About</a></li>
+      <li><a href="https://vzmama0-boop.github.io/about/">About</a></li>
     </ul>
   </nav>  <section class="hero">
     <h2>Automotive & visuals</h2>
