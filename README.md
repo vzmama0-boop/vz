@@ -138,14 +138,14 @@
     }
   </style></head>
 <body>  <nav>
-    <h1>KOI FISH</h1>
+    <h1>vzmama</h1>
     <ul>
       <li><a href="index.html">Home</a></li>
       <li><a href="gallery.html">Gallery</a></li>
       <li><a href="about.html">About</a></li>
     </ul>
   </nav>  <section class="hero">
-    <h2>CAR PHOTOGRAPHY</h2>
+    <h2>Automotive & visuals</h2>
     <p>Capturing moments at car meets & events</p>
   </section>  <section class="preview">
     <h3>FEATURED</h3>
@@ -155,6 +155,6 @@
       <div><span>Event</span></div>
     </div>
   </section>  <footer>
-    © 2026 Koi Fish — All shots by me unless stated
+    © 2026 vzmama — All shots by me unless stated
   </footer></body>
 </html>
