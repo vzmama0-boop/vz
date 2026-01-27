@@ -147,28 +147,23 @@
     <p>Capturing moments at car meets & events</p>
   </section>  <section class="preview">
     <h3>FEATURED</h3>
-    .grid div.car-meet {
-  background-image: url('car-meet.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-.grid div.details {
-  background-image: url('details.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-.grid div.event {
-  background-image: url('event.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-    <div class="grid">
       <div><span>Car Meet</span></div>
       <div><span>Details</span></div>
       <div><span>Event</span></div>
+    <div class="grid">
+  <div>
+    <img src="car meet.jpg" alt="Car Meet">
+    <span>Car Meet</span>
+  </div>
+  <div>
+    <img src="details.jpg" alt="Details">
+    <span>Details</span>
+  </div>
+  <div>
+    <img src="event.jpg" alt="Event">
+    <span>Event</span>
+  </div>
+</div>
     </div>
   </section>  <footer>
     © 2026 vzmama — All shots by me unless stated
