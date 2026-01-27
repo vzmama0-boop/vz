@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Koi Fish | Car Photography</title>  <style>
+  <title>vzmama | Automotive & visuals </title>  <style>
     :root {
       --black: #0F0F0F;
       --brown: #6B4F3F;
