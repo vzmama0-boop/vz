@@ -163,9 +163,6 @@
     <img src="event.jpg" alt="Event">
     <span>Event</span>
   </div>
-</div>
-    </div>
   </section>  <footer>
     © 2026 vzmama — All shots by me unless stated
   </footer></body>
-</html>
